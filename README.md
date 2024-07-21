@@ -11,5 +11,5 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,windows,linux,github,git,firebase,css,html,js, nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,windows,linux,github,git,firebase,css,html,js,nodejs,python"> </a> </p>
 
