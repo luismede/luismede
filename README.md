@@ -7,7 +7,8 @@
 
 - 🔭 Working on Websites
 - 🌱 Learning JS, Node.js & Express
-- 📫 How to contact me: luishenrique23h@hotmail.com or Discord: _luismede (Preferably)
+- 📫 How to contact me: luishenrique23h@hotmail.com \
+or Discord: _luismede (Preferably 😉)
 
 ## Languages and Tools
 
