@@ -1,7 +1,7 @@
 
 ---
 <h3 align="center">Hello World, I'm <a href="https://github.com/luismede">Luis Mede</a></h3>
-<h5 align="center">Web development and web security enthusiast</h5>
+<h5 align="center">“The most important thing is to try to inspire people so they can be great at whatever they want to do.”</h5>
 
 ## What I'm Doing
 
