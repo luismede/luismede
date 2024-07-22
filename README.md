@@ -6,7 +6,7 @@
 ## What I'm Doing
 
 - 🔭 Working on Websites
-- 🌱 Learning Node.js & Js
+- 🌱 Learning JS, Node.js & Express
 - 📫 How to contact me: luishenrique23h@hotmail.com
 
 ## Languages and Tools
