@@ -14,3 +14,5 @@ or Discord: _luismede (Preferably 😉)
 
 <p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,windows,linux,github,git,firebase,css,html,js,nodejs,python"> </a> </p>
 
+## My stats
+![luismede GitHub stats](https://github-readme-stats.vercel.app/api?username=luismede&show_icons=true&theme=default)  (![luismed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luismed&theme=default&hide_border=true))
