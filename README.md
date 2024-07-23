@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png">
 
 
-<h3 align="center">Hello World, I'm <a href="https://github.com/luismede">Luis Mede</a></h3>
+<h2 align="center">Hello World, I'm <a href="https://github.com/luismede">Luis Mede</a></h2>
 I'm a web developer and high school student. I'm interested in development, web security and helping the community with my projects. I work on random projects in my free time.
 
 ## What I'm Doing
