@@ -1,7 +1,6 @@
 
----
 <h3 align="center">Hello World, I'm <a href="https://github.com/luismede">Luis Mede</a></h3>
-<h4 align="center">“The most important thing is to try and inspire people so that they can be great in whatever they want to do.”</h4>
+I'm a web developer and high school student. I'm interested in development, web security and helping the community with my projects. I work on random projects in my free time.
 
 ## What I'm Doing
 
