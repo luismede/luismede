@@ -6,13 +6,21 @@
 ## What I'm Doing
 
 - 🔭 Working on Websites
-- 🌱 Learning JS, Node.js & Express
+- 🌱 Learning JS, Node.js & Discord Bots
 - 📫 How to contact me: luishenrique23h@hotmail.com \
 or Discord: _luismede (Preferably 😉)
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,windows,linux,github,git,firebase,css,html,js,nodejs,python"> </a> </p>
+<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,windows,git,firebase,css,html,js,nodejs"> </a> </p>
 
-## My stats
-![luismede GitHub stats](https://github-readme-stats.vercel.app/api?username=luismede&show_icons=true&theme=default)
+### 🌱 Learning
+<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=js,bots,nodejs"> </a> </p>
+
+</br>
+
+<details>
+  <summary>Github Stats ⚡</summary></br>
+  
+  <a href="#">![luismede GitHub stats](https://github-readme-stats.vercel.app/api?username=luismede&show_icons=true&theme=default)</a>
+</details>
