@@ -8,12 +8,15 @@ I'm a web developer and high school student. I'm interested in development, web 
 
 - 🔭 Working on Websites
 - 🌱 Learning JS, Node.js & Discord Bots
-- 📫 How to contact me: luishenrique23h@hotmail.com \
-or Discord: _luismede (Preferably 😉)
+-  <h3>📫 How to contact me: </h3>
+<a href="https://discordapp.com/users/1127682040494559232"><img width="45px" src="https://skillicons.dev/icons?i=discord,">Discord</a> 
+
+📩 - luishenrique23h@hotmail.com
+
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,windows,git,firebase,css,html,js,nodejs"> </a> </p>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,windows,git,firebase,css,html,js,nodejs"> </a>
 
 ### 🌱 Learning
 <p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=js,bots,nodejs"> </a> </p>
