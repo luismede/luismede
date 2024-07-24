@@ -9,9 +9,9 @@ I'm a web developer and high school student. I'm interested in development, web 
 - 🔭 Working on Websites
 - 🌱 Learning JS, Node.js & Discord Bots
 -  <h3>📫 How to contact me: </h3>
-<a href="https://discordapp.com/users/1127682040494559232"><img width="20px" src="https://skillicons.dev/icons?i=discord"> - Discord</a> 
+- 📩 luishenrique23h@hotmail.com or <a href="https://discordapp.com/users/1127682040494559232">Discord</a> 
 
-📩 - luishenrique23h@hotmail.com
+
 
 
 ## Languages and Tools
