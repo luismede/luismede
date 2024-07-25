@@ -16,7 +16,7 @@ I'm a web developer and high school student. I'm interested in development, web 
 
 ## Languages and Tools
 
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,windows,git,firebase,css,html,js,nodejs"> </a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,windows,git,firebase,css,html,js,nodejs,python"> </a>
 
 ### 🌱 Learning
 <p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=js,bots,nodejs"> </a> </p>
