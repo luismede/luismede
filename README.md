@@ -23,8 +23,5 @@ I'm a web developer and high school student. I'm interested in development, web 
 
 </br>
 
-<details>
-  <summary><h3> Github Stats ⚡</h3></summary></br>
-  
-  <a href="#">![luismede GitHub stats](https://github-readme-stats.vercel.app/api?username=luismede&show_icons=true&theme=default)</a>
-</details>
+  <h3> Working ⚡</h3></br>
+
