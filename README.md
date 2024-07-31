@@ -21,7 +21,8 @@ I'm a web developer and high school student. I'm interested in development, web 
 ### 🌱 Learning
 <p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=js,nodejs"> </a> </p>
 
-</br>
+### 👀 Interested
+<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=golang"> </a> </p>
 
-  <h3> Working ⚡</h3></br>
+<h3> Working ⚡</h3></br>
 
