@@ -7,7 +7,7 @@ I'm a web developer and high school student. I'm interested in development, web 
 ## What I'm Doing
 
 - 🔭 Working on Websites
-- 🌱 Learning JS, Node.js & Discord Bots
+- 🌱 Learning JS & Node.js 
 -  <h3>📫 How to contact me: </h3>
 - 📩 luishenrique23h@hotmail.com or <a href="https://discordapp.com/users/1127682040494559232">Discord</a> 
 
