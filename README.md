@@ -17,13 +17,13 @@ I'm a web developer and high school student. I'm interested in development, web 
 
 ## Languages and Tools
 
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,windows,linux,notion,git,bash,vercel,firebase,docker,html,css,js,nodejs,python"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,figma,linux,git,firebase,docker,html,css,js,nodejs,python"></a>
 
 ### 🌱 Learning
-<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=js,nodejs,docker"></a> <a href="https://github.com/luismede/arduino"> <img src="https://skillicons.dev/icons?i=arduino"></a></p>
+<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=nodejs,react,typescript"></a> <a href="https://github.com/luismede/arduino"> <img src="https://skillicons.dev/icons?i=arduino"></a></p>
 
 ### 👀 Interested
-<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=golang,arduino"></a></p>
+<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=golang"></a></p>
 
 <h3> Working ⚡</h3></br>
 
