@@ -8,7 +8,7 @@ I'm a web developer and high school student. I'm interested in development, web 
 ## What I'm Doing
 
 - 🔭 Working on Websites
-- 🌱 Learning Node.js, Docker & Arduino 
+- 🌱 Learning AWS, Docker & Arduino 
 <h3>📫 How to contact me: </h3>
 
 - 📩 luishenrique23h@hotmail.com
