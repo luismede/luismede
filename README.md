@@ -8,7 +8,8 @@ I'm a web developer and high school student. I'm interested in development, web 
 ## What I'm Doing
 
 - 🔭 Working on Websites
-- 🌱 Learning AWS, Docker & Arduino 
+- 🌱 Learning Docker & Arduino
+- 🏫 currently attending Harvard CS50x 2024
 <h3>📫 How to contact me: </h3>
 
 - 📩 luishenrique23h@hotmail.com
@@ -21,10 +22,10 @@ I'm a web developer and high school student. I'm interested in development, web 
 <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,figma,linux,git,firebase,docker,html,css,js,nodejs,python"></a>
 
 ### 🌱 Learning
-<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=typescript,aws,arduino"></a>
+<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=js,arduino"></a>
 
 ### 👀 Interested
-<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=golang"></a></p>
+<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=golang,aws"></a></p>
 
 <h3> Working ⚡</h3></br>
 
