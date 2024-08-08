@@ -13,7 +13,7 @@ I'm a web developer and high school student. I'm interested in development, web 
 <h3>📫 How to contact me: </h3>
 
 - 📩 luishenrique23h@hotmail.com
-- <a href="https://www.linkedin.com/in/luismede/">Linkedin</a>
+- 💼 <a href="https://www.linkedin.com/in/luismede/">Linkedin</a>
 
 
 
