@@ -9,7 +9,7 @@ I'm a web developer and high school student. I'm interested in development, web 
 
 - 🔭 Working on Websites
 - 🌱 Learning Docker & Arduino
-- 🏫 currently attending Harvard CS50x 2024
+- 🏫 Currently attending Harvard CS50x 2024
 <h3>📫 How to contact me: </h3>
 
 - 📩 luishenrique23h@hotmail.com
