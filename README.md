@@ -25,7 +25,7 @@
 
 ## Languages and Tools
 
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,figma,linux,git,firebase,docker,html,css,js,nodejs,python"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,figma,linux,git,firebase,docker,html,css,js,tailwind,nodejs,python"></a>
 
 ### Learning
 <p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=js,arduino"></a>
