@@ -1,12 +1,14 @@
 
 
 
-<h2 align="center">Hello World</h2>
-I am a developer and high school student interested in web development, information security, and helping the programming community with my projects.
+<h2 align="center">Hello World 👨‍💻</h2>
+</br>
 
-I started programming in 2021 during the pandemic, and since then, I have continued to study the area to this day. I currently focus on my studies in Javascript, NodeJs, Docker, React, Tailwind CSS, Information Security, among other technologies that I use to create web applications.
+  I am a developer and high school student interested in web development, information security, and helping the programming community with my projects.
 
-I enjoy working and challenging myself on random projects in my free time.
+  I started programming in 2021 during the pandemic, and since then, I have continued to study the area to this day. I currently focus on my studies in Javascript, NodeJs, Docker, React, Tailwind CSS, Information Security, among other technologies that I use to create web applications.
+
+  I enjoy working and challenging myself on random projects in my free time.
 
 ## What I'm Doing
 
