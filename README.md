@@ -20,8 +20,9 @@
 -  luishenrique23h@hotmail.com
 -  <a href="https://www.linkedin.com/in/luismede/">Linkedin</a>
 
-
-
+## 
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/luismede.png" alt="TryHackMe">
 
 ## Languages and Tools
 
