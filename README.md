@@ -10,7 +10,7 @@ I like to challenge myself with innovative projects and new learning experiences
 ## What I'm Doing
 
 - Working on Websites
-- Learning Docker & Arduino
+- Learning JS & Arduino
 - Currently attending Harvard CS50x 2024
 <h3>How to contact me: </h3>
 
