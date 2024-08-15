@@ -4,11 +4,8 @@
 <h2 align="center">Hello World 👨‍💻</h2>
 </br>
 
-  I am a developer and high school student interested in web development, information security, and helping the programming community with my projects.
-
-  I started programming in 2021 during the pandemic, and since then, I have continued to study the area to this day. I currently focus on my studies in Javascript, NodeJs, Docker, React, Tailwind CSS, Information Security, among other technologies that I use to create web applications.
-
-  I enjoy working and challenging myself on random projects in my free time.
+  I am a developer and high school student. Since 2021, with the goal of creating solutions that change people's lives in some way. I currently focus my studies on Javascript, NodeJs, React and Typescript.
+I like to challenge myself with innovative projects and new learning experiences.
 
 ## What I'm Doing
 
