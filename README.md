@@ -16,7 +16,7 @@ I like to challenge myself with innovative projects and new learning experiences
 
 ## Languages and Tools
 
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=vscode,figma,git,docker,firebase,html,css,js,htmx,tailwind,react,nodejs,python"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=git,docker,html,css,js,htmx,tailwind,react,nodejs,firebase,python,vscode,figma"></a>
 
 ### Learning
 <p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=ts,arduino,cpp"></a>
