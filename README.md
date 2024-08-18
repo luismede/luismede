@@ -1,6 +1,3 @@
-![Desenvolvedor Front-End](https://github.com/user-attachments/assets/cb367f8f-38b1-40e2-9c13-79c3987e8353)
-
-
 <h2 align="center">Hello World 👨‍💻</h2>
 </br>
 
