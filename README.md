@@ -8,7 +8,7 @@ I like to challenge myself with innovative projects and new learning experiences
 
 - Working on Websites
 - Learning JS & Arduino
-- Currently attending Harvard CS50x 2024
+- In the selection process for the institute J&F
 <h3>How to contact me: </h3>
 
 -  luishenrique23h@hotmail.com
