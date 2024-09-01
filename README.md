@@ -22,6 +22,6 @@ I like to challenge myself with innovative projects and new learning experiences
 <p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=java,python"></a>
 
 ### Interested
-<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio"></a></p>
+<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio"></a></p>
 
 
