@@ -16,12 +16,12 @@ I like to challenge myself with innovative projects and new learning experiences
 
 ## Languages and Tools
 
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=git,docker,js,tailwind,nodejs,firebase,python,webstorm"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=git,docker,js,html,css,tailwind,nodejs,firebase,python,arduino,idea,webstorm"></a>
 
 ### Learning
 <p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=react,python"></a>
 
 ### Interested
-<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,dotnet"></a></p>
+<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio"></a></p>
 
 
