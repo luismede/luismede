@@ -14,9 +14,13 @@ I like to challenge myself with innovative projects and new learning experiences
 -  luishenrique23h@hotmail.com
 -  <a href="https://www.linkedin.com/in/luismede/">Linkedin</a>
 
-## Languages and Tools
+## Tools
 
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=postman,git,docker,arduino,js,html,css,tailwind,nodejs,firebase,python,vscode,idea,webstorm,obsidian,notion"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=postman,git,docker,firebase,python,vscode,idea,webstorm,obsidian,notion"></a>
+
+## Languages
+
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=arduino,js,html,css,tailwind,nodejs,python"></a>
 
 ### Learning
 <p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=java,python"></a>
