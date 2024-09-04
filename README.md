@@ -18,9 +18,9 @@ I like to challenge myself with innovative projects and new learning experiences
 
 <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=postman,git,docker,firebase,python,vscode,idea,webstorm"></a>
 
-## Languages
+## Technologies
 
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=arduino,js,html,css,tailwind,nodejs,python"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=arduino,html,css,js,tailwind,react,nodejs,python"></a>
 
 ### Learning
 <p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=java,python"></a>
