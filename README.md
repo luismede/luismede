@@ -1,7 +1,7 @@
 <h2 align="center">Hello World 👨‍💻</h2>
 </br>
 
-  I am a developer and Final year elementary school student. Since 2021, with the goal of creating solutions that change people's lives in some way. I currently focus my studies on Java and Python.
+  I am a developer and Final year elementary school student. Since 2020, with the goal of creating solutions that change people's lives in some way. I currently focus my studies on Java and Python.
 I like to challenge myself with innovative projects and new learning experiences.
 
 ## What I'm Doing
