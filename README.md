@@ -20,9 +20,9 @@ I like to challenge myself with innovative projects and new learning experiences
 
 ## Technologies
 
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=js,tailwind,nodejs,firebase,python"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=python,nodejs,js,tailwind,firebase,"></a>
 
 ### Learning e Interested
-<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=java,python"></a> | <p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=spring,kotlin"></a></p>
+<p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=java,python"></a><p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=spring,kotlin"></a></p>
 
 
