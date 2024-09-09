@@ -20,7 +20,7 @@ I like to challenge myself with innovative projects and new learning experiences
 
 ## Technologies
 
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=arduino,html,css,js,tailwind,react,nodejs,firebase,python"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=arduino,js,tailwind,nodejs,firebase,python"></a>
 
 ### Learning
 <p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=java,python"></a>
