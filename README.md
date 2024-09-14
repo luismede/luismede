@@ -22,7 +22,7 @@ I like to challenge myself with innovative projects and new learning experiences
 
 <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=js,python,nodejs,electron,tailwind,firebase,"></a>
 
-### Learning e Interested
+### Learning and Interested
 <p align="left"> <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=python,java,spring,aws"></a>
 
 
