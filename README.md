@@ -16,7 +16,7 @@ I like to challenge myself with innovative projects and new learning experiences
 
 ## Tools
 
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=arduino,postman,git,docker,linux,gitlab,vscode,idea"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=arduino,postman,git,docker,linux,gitlab,github,vscode,idea"></a>
 
 ## Technologies
 
