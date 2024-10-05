@@ -13,7 +13,8 @@ I like to challenge myself with innovative projects and new learning experiences
 
 -  luishenrique23h@hotmail.com
 -  <a href="https://www.linkedin.com/in/luismede/">Linkedin</a>
-<h3>Learning: </h3>
+
+<h3>Learning:</h3>
 -  Java
 -  Spring
 -  SQL
