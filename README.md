@@ -15,6 +15,7 @@ I like to challenge myself with innovative projects and new learning experiences
 -  <a href="https://www.linkedin.com/in/luismede/">Linkedin</a>
 
 <h3>Learning:</h3>
+
 -  Java
 -  Spring
 -  SQL
