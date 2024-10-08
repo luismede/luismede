@@ -17,7 +17,6 @@ I like to challenge myself with innovative projects and new learning experiences
 <h3>Learning:</h3>
 
 -  Java
--  Spring
 -  SQL
 
 ## Tools
