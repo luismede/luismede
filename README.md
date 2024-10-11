@@ -9,9 +9,9 @@ I like to challenge myself with innovative projects and new learning experiences
 
 ---
 
-👨‍💻 Working on random projects in my free time
-🇺🇲 Learning English
-📚 In the selection process for the institute J&F
+- 👨‍💻 Working on random projects in my free time
+- 🇺🇲 Learning English
+- 📚 In the selection process for the institute J&F
 
 ---
 
