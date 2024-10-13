@@ -10,7 +10,7 @@ I like to challenge myself with innovative projects and new learning experiences
 ---
 
 - 👨‍💻 Working on random projects in my free time
-- 🇺🇲 Learning English - Level A2
+- 🇺🇲 Learning English - A2 Pre-Intermediate English Level
 - 📚 In the selection process for the institute J&F
 
 ---
