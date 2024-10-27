@@ -22,7 +22,7 @@ I like to challenge myself with innovative projects and new learning experiences
 
 ---
 
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql,firebase,nodejs,docker,sqlite,html,css,js"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql,firebase,nodejs,linux,docker,sqlite,html,css,js"></a>
 
 
 
