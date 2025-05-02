@@ -6,7 +6,7 @@ I like to challenge myself with innovative projects and new learning experiences
 
 
 
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=html,css,js,python,java,maven,spring,postgresql,mysql,docker,git,arduino"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,maven,spring,postgresql,mysql,docker,git,arduino"></a>
 </br>
 </br>
  
