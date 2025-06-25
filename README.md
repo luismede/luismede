@@ -5,12 +5,15 @@ I like to challenge myself with innovative projects and new learning experiences
 
 
 
+## Skills
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=html,css,js,python,java,postgresql,mysql,docker,git,arduino,figma"></a>
 
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,maven,spring,postgresql,mysql,docker,git,arduino"></a>
+## Learning
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=nodejs,maven,spring,cpp"></a>
 </br>
 </br>
  
- <!-- ![68747470733a2f2f692e616c6578666c69706e6f74652e6465762f346839336775792e706e67](https://github.com/user-attachments/assets/a5975b78-2580-430b-8f2a-cd68a52e0aaa)-->
+ ![68747470733a2f2f692e616c6578666c69706e6f74652e6465762f346839336775792e706e67](https://github.com/user-attachments/assets/a5975b78-2580-430b-8f2a-cd68a52e0aaa)
 
 
 
