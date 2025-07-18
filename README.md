@@ -12,6 +12,9 @@ System.out.println("Welcome to my Github!");
 
 ## Learning
 <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=nodejs,maven,spring,cpp"></a>
+
+## Interests
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=mongo,redis,go"></a>
 </br>
 </br>
  
