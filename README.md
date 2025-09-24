@@ -11,7 +11,7 @@ System.out.println("Welcome to my Github!");
 <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=html,css,python,java,spring,postgresql,mysql,docker,git,arduino,figma"></a>
 
 ## Learning
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=js,ts,nest,prisma,cpp"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=js,ts,nest,graphql,prisma,cpp"></a>
 
 ## Interests
 <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=mongo,redis,go"></a>
