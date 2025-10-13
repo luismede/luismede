@@ -14,6 +14,6 @@ System.out.println("Welcome to my Github!");
 <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=js,ts,nest,graphql,prisma,cpp"></a>
 
 ## Interests
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=mongo,redis,go"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=mongo,redis,go,rust"></a>
 </br>
 </br>
