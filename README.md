@@ -7,11 +7,11 @@ System.out.println("Welcome to my Github!");
 
 
 
-## Skills
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=html,css,python,java,spring,postgresql,mysql,docker,git,arduino,figma"></a>
+## Main Skills
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=html,css,python,java,spring,postgresql,mysql,docker,git,arduino,figma,js,ts,nest,prisma,azure,linux,npm,sqlite,grafana"></a>
 
 ## Learning
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=js,ts,nest,graphql,prisma,cpp"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=graphql,cpp"></a>
 
 ## Interests
 <a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=mongo,redis,go,rust"></a>
