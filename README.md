@@ -8,12 +8,10 @@ System.out.println("Welcome to my Github!");
 
 
 ## Main Skills
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=html,css,python,java,spring,postgresql,mysql,docker,git,arduino,figma,js,ts,nest,prisma,azure,linux,npm,sqlite,grafana"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=python,java,spring,postgresql,docker,git,js,ts,nest,prisma,azure,graphql"></a>
 
 ## Learning
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=graphql,cpp,bash"></a>
+<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=mongodb,cpp,bash"></a>
 
-## Interests
-<a href="https://github.com/luismede"><img src="https://skillicons.dev/icons?i=mongo,redis,go,rust"></a>
 </br>
 </br>
